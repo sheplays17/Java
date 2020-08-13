@@ -27,4 +27,5 @@ public class Polygon {
 			  puncte[i].show();
 		  }
 	  }
+	  
 }
